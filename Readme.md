@@ -1,3 +1,3 @@
-     # Task manager
+# Task manager
 
 Sample github actions.
